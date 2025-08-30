@@ -83,74 +83,9 @@ I am a **Frontend Developer and UX/UI Designer**, focused on creating modern and
 <img alt="GitHub Streak" width="420px" src="https://streak-stats.demolab.com?user=gabrielmatosmartins&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D"/>
 </td>
 </tr>
-<tr>
- <td align="center" colspan="3"></td>
-</tr>
-</table>
-<table>
-<tr>
- <td align="center"></td>
-</tr>
- <td align="center"></td>
-</tr> 
 </table>
 </div>
 </div>
-
-<div>
-<details>
-<summary><img height="20" alt="SVG" src="https://gabrielmatosmartins.github.io/image/graphic.svg?raw=true"/>&nbsp;Veja mais
-</summary>
-<br />
-
-<div align="center">
-<table>
-<tr>
- <td align="center" colspan="2">:octocat: GitHub Metrics</td>
-</tr>
-<tr>
-<td>
-<img width="400px" src="https://gabrielmatosmartins.github.io/metrics.classic.svg" alt="Metrics">
-</td>
-<td>
-<img width="400px" src="https://gabrielmatosmartins.github.io/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics">
-</td>
-</tr>
-<tr>
-<td>
-<img width="400px" src="https://gabrielmatosmartins.github.io/metrics.plugin.stars.svg" alt="Metrics">
-</td>
-<td>
-<img width="400px" src="https://gabrielmatosmartins.github.io/metrics.plugin.activity.svg" alt="Metrics">
-</td>
-</tr>
-<tr>
-<td>
-<img width="400px" src="https://gabrielmatosmartins.github.io/metrics.plugin.people.followers.svg" alt="Metrics">
-</td>
-<td>
-<img width="400px" src="https://gabrielmatosmartins.github.io/metrics.plugin.stargazers.svg" alt="Metrics">
-</td>
-</tr>
-<tr>
-<td>
-<img width="400px" src="https://gabrielmatosmartins.github.io/metrics.plugin.topics.icons.svg" alt="Metrics">
-</td>
-<td>
-<img width="400px" src="https://gabrielmatosmartins.github.io/metrics.terminal.svg" alt="Metrics">
-</td>
-</tr>
-<tr>
- <td align="center" colspan="2"></td>
-</tr> 
-</table>
-</div>
-
-</details>
-</div>
-
------
-
 
 ---
 
