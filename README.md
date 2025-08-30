@@ -3,7 +3,7 @@
 My name is **Gabriel Matos Martins**  
 I am a **Frontend Developer and UX/UI Designer**, focused on creating modern and responsive interfaces, combining **graphic design, usability, and technology** to deliver consistent digital experiences.  
 
-- 🎓 Technical degree in **Electrical Engineering**  
+- 🎓 Technical degree in **Electrical**  
 - 🎨 Degree in **Graphic Design**  
 - 💻 **Software Engineering** student in Brazil  
 - 🏃 Amateur runner in my free time  
