@@ -91,10 +91,6 @@ I am a **Frontend Developer and UX/UI Designer**, focused on creating modern and
 <tr>
  <td align="center"></td>
 </tr>
-<tr>
- <td align="center"><a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid" target="_blank"><img align="center" alt="github-user-contribution" src="https://gabrielmatosmartins.github.io/image/github-user-contribution.svg?raw=true"/></a></td>
-</tr>
-<tr>
  <td align="center"></td>
 </tr> 
 </table>
@@ -147,19 +143,6 @@ I am a **Frontend Developer and UX/UI Designer**, focused on creating modern and
 <tr>
  <td align="center" colspan="2"></td>
 </tr> 
-</table>
-</div>
-
-<div align="center">
-<table>
-<tr>
- <td align="center">:octocat: GitHub 5-Year Retrospective</td>
-</tr>
-<tr>
- <td align="center">
-  <img src="https://gabrielmatosmartins.github.io/image/postspark_export_12-16-2024_17-14-32.png" alt="GitHub 5-Year Retrospective">
- </td>
-</tr>
 </table>
 </div>
 
