@@ -1,13 +1,13 @@
 # 👋 About Me
 
-Meu nome é **Gabriel Matos Martins**  
-Sou um **Desenvolvedor Frontend e UX/UI**, focado em criação de interfaces modernas e responsivas, unindo **design gráfico, usabilidade e tecnologia** para entregar experiências digitais consistentes.  
+My name is **Gabriel Matos Martins**  
+I am a **Frontend Developer and UX/UI Designer**, focused on creating modern and responsive interfaces, combining **graphic design, usability, and technology** to deliver consistent digital experiences.  
 
-- 🎓 Formação técnica em **Elétrica**  
-- 🎨 Formação em **Design Gráfico**  
-- 💻 Estudante de **Engenharia de Software** no Brasil  
-- 🏃 Corredor amador nas horas vagas  
-- 🎭 Apaixonado por **desenhos, pinturas e artes**  
+- 🎓 Technical degree in **Electrical Engineering**  
+- 🎨 Degree in **Graphic Design**  
+- 💻 **Software Engineering** student in Brazil  
+- 🏃 Amateur runner in my free time  
+- 🎭 Passionate about **drawing, painting, and arts**  
 
 ---
 
