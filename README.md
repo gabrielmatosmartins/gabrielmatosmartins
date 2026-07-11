@@ -10,12 +10,7 @@
 
 # Sobre mim
 
-🎨 Formado em **Design Gráfico**
-🎓 Técnico em **Eletrotécnica**
-💻 Graduando em **Engenharia de Software**
-❤️ Apaixonado por tecnologia, design e desenvolvimento web.
-🏃 Corredor amador nas horas vagas.
-🎭 Também gosto de desenhar, pintar e criar interfaces.
+Sou Gabriel Matos Martins, Frontend Developer e UX/UI Designer, formado em Design Gráfico, técnico em Eletrotécnica e graduando em Engenharia de Software. Desenvolvo interfaces modernas, responsivas e acessíveis, combinando design, tecnologia e experiência do usuário para transformar ideias em soluções digitais. Tenho grande interesse por desenvolvimento web, arquitetura de software e boas práticas de UX/UI. Fora da programação, sou corredor amador e apaixonado por desenho, pintura e artes, hobbies que fortalecem minha criatividade e atenção aos detalhes.
 
 ---
 
