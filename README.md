@@ -11,26 +11,10 @@
 # Sobre mim
 
 🎨 Formado em **Design Gráfico**
-
 🎓 Técnico em **Eletrotécnica**
-
 💻 Graduando em **Engenharia de Software**
-
 ❤️ Apaixonado por tecnologia, design e desenvolvimento web.
-
-Atualmente estudando:
-
-- React
-- Next.js
-- Angular
-- Node.js
-- Java
-- Spring Boot
-- UX/UI
-- Power BI
-
 🏃 Corredor amador nas horas vagas.
-
 🎭 Também gosto de desenhar, pintar e criar interfaces.
 
 ---
@@ -126,8 +110,6 @@ Atualmente estudando:
 </div>
 
 <div align="center">
-
-
 
 </div>
 
