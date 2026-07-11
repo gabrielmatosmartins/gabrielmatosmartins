@@ -1,86 +1,163 @@
-# 👋 About Me
+<div align="center">
 
-My name is **Gabriel Matos Martins**  
-I am a **Frontend Developer and UX/UI Designer**, focused on creating modern and responsive interfaces, combining **graphic design, usability, and technology** to deliver consistent digital experiences.  
+# Seja bem vindo! Sou o Gabriel Matos Martins.
 
-- 🎓 Technical degree in **Electrical**  
-- 🎨 Degree in **Graphic Design**  
-- 💻 **Software Engineering** student in Brazil  
-- 🏃 Amateur runner in my free time  
-- 🎭 Passionate about **drawing, painting, and arts**  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Frontend+Developer;UX%2FUI+Designer;Software+Engineering+Student;JavaScript+%7C+React+%7C+Next.js+%7C+Angular" />
+
+</div>
 
 ---
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-matos-172583170/)
+# Sobre mim
+
+🎨 Formado em **Design Gráfico**
+
+🎓 Técnico em **Eletrotécnica**
+
+💻 Graduando em **Engenharia de Software**
+
+❤️ Apaixonado por tecnologia, design e desenvolvimento web.
+
+Atualmente estudando:
+
+- React
+- Next.js
+- Angular
+- Node.js
+- Java
+- Spring Boot
+- UX/UI
+- Power BI
+
+🏃 Corredor amador nas horas vagas.
+
+🎭 Também gosto de desenhar, pintar e criar interfaces.
 
 ---
 
-## 💻 Tech Stack
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=for-the-badge) ![Node.js](https://img.shields.io/badge/node.js-43853D.svg?logo=node.js&logoColor=white&style=for-the-badge) ![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?logo=angular&logoColor=white&style=for-the-badge) ![Next.js](https://img.shields.io/badge/next.js-000000.svg?logo=next.js&logoColor=white&style=for-the-badge)  
-
-### ⚡ Data & BI  
-![SQL](https://img.shields.io/badge/sql-4479A1.svg?logo=postgresql&logoColor=white&style=for-the-badge) ![SAS](https://img.shields.io/badge/sas-1A6DBB.svg?logo=sas&logoColor=white&style=for-the-badge) ![Power BI](https://img.shields.io/badge/powerbi-F2C811.svg?logo=powerbi&logoColor=black&style=for-the-badge)  
-
-
------
-
-<div>
-
-## 📊 GitHub Stats
+# 🌐 Contato
 
 <div align="center">
-<tr>
- <td align="center" colspan="3"></td>
-</tr> 
-<tr>
-<td>
-<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gabrielmatosmartins&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=dark&locale=pt-br&card_width=480"/>
-</td>
-<td>
-<img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmatosmartins&theme=dark&locale=pt-br&langs_count=7"/>
-</td>
-<td>
-<img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmatosmartins&layout=pie&theme=dark&locale=pt-br"/>
-</td>
-</tr>
-<tr>
- <td align="center" colspan="3"></td>
-</tr> 
-</table>
-<table>
-<tr>
- <td align="center" colspan="3"></td>
-</tr> 
-<tr>
-<td>
-<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabrielmatosmartins&theme=github_dark"/>
-</td>
-<td>
-<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabrielmatosmartins&theme=github_dark"/>
-</td>
-<td>
-<img alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielmatosmartins&theme=github_dark"/>
-</td>
-</tr>
-<tr>
- <td align="center" colspan="3"></td>
-</tr> 
-<tr>
-<td>
-<img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gabrielmatosmartins&theme=github_dark&utcOffset=8"/>
-</td>
-<td>
-<img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gabrielmatosmartins&theme=github_dark"/>
-</td>
-<td>
-<img alt="GitHub Streak" width="420px" src="https://streak-stats.demolab.com?user=gabrielmatosmartins&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D"/>
-</td>
-</tr>
-</table>
-</div>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/gabriel-matos-172583170/)
+
 </div>
 
 ---
 
+# 💻 Tech Stack
+
+### Front-end
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,angular,tailwind,bootstrap" />
+
+</p>
+
+### Back-end
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,java,spring,mysql,postgresql,firebase" />
+
+</p>
+
+### Ferramentas
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=figma,git,github,vscode,idea,postman,linux" />
+
+</p>
+
+### Business Intelligence
+
+<p>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/SAS-02569B?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats-gabriel.vercel.app/api?username=gabrielmatosmartins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats-gabriel.vercel.app/api/top-langs/?username=gabrielmatosmartins&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=gabrielmatosmartins&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielmatosmartins&theme=github_dark"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabrielmatosmartins&theme=github_dark"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabrielmatosmartins&theme=github_dark"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gabrielmatosmartins&theme=github_dark"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gabrielmatosmartins&theme=github_dark&utcOffset=-3"/>
+
+</div>
+
+<div align="center">
+
+
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielmatosmartins&theme=tokyo-night"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/gabrielmatosmartins/gabrielmatosmartins/output/github-contribution-grid-snake-dark.svg"/>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=gabrielmatosmartins&label=Visualizações&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
+</div>
+
+# 📌 Projetos em destaque
+
+- Sistema de Gestão para ONG Remediar
+- Plataforma House Invest
+- Aplicativos de Eventos Hangout
+- Dashboard Power BI para decições avançadas
+- Aplicações React e Next.js
+- APIs Java Spring Boot
+- OCR para Extração de texto para sistemas de coordenadas geográficas 
+
+---
 
