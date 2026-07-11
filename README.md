@@ -80,47 +80,19 @@ Sou Gabriel Matos Martins, Frontend Developer e UX/UI Designer, formado em Desig
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielmatosmartins&theme=github_dark"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabrielmatosmartins&theme=github_dark"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabrielmatosmartins&theme=github_dark"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gabrielmatosmartins&theme=github_dark"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gabrielmatosmartins&theme=github_dark&utcOffset=-3"/>
-
-</div>
-
-<div align="center">
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielmatosmartins&theme=tokyo-night"/>
-
-</div>
-
-<div align="center">
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/gabrielmatosmartins/gabrielmatosmartins/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 <div align="center">
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielmatosmartins&theme=github_dark"/>
+
+</div>
+
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=gabrielmatosmartins&label=Visualizações&color=0e75b6&style=for-the-badge"/>
 
